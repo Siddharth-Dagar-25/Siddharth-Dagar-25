@@ -19,15 +19,16 @@
 
 <!-- You can link this button to your portfolio, contact page, or a project -->
 <p align="center">
-  <a href="https://siddharth-dagar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Check%20Out%20My%20Work-blue?style=for-the-badge&logo=appveyor" alt="Button to your work"/>
+  <a href="https://siddharth-dagar.vercel.app/">
+    <img src="https://img.shields.io/badge/-Check%20Out%20My%20Work%20(opens%20in%20the%20same%20tab)-blue?style=for-the-badge&logo=appveyor" alt="Button to your work (opens in the same tab)"/>
   </a>
 </p>
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthdagar25) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddharthdagar_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthdagar25)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddharthdagar_) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
