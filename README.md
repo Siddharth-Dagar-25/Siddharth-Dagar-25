@@ -19,7 +19,7 @@
 
 <!-- You can link this button to your portfolio, contact page, or a project -->
 <p align="center">
-  <a href="https://siddharth-dagar.vercel.app/">
+  <a href="https://siddharth-dagar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Check%20Out%20My%20Work-blue?style=for-the-badge&logo=appveyor" alt="Button to your work"/>
   </a>
 </p>
