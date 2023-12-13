@@ -20,7 +20,7 @@
 <!-- You can link this button to your portfolio, contact page, or a project -->
 <p align="center">
   <a href="https://siddharth-dagar.vercel.app/">
-    <img src="https://img.shields.io/badge/-Check%20Out%20My%20Portfolio%20(opens%20in%20the%20same%20tab)-blue?style=for-the-badge&logo=appveyor" alt="Button to your work"/>
+    <img src="https://img.shields.io/badge/-Check%20Out%20My%20Portfolio%20-blue?style=for-the-badge&logo=appveyor" alt="Button to your work"/>
   </a>
 </p>
 
