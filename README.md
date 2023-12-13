@@ -1,5 +1,29 @@
 # 💫 About Me:
-Final Year Student  at NSUT, Dwarka, New Delhi<br>Full(MERN) Stack Web Developer<br>
+<h2 align="center">Hello! I'm Siddharth Dagar 👋</h2>
+
+<p align="center">
+  <em>I'm a Full Stack Web Developer with a passion for creating products that are not only visually appealing but also solve real-world problems.</em>
+</p>
+
+<p align="center">
+  When I'm not sketching ideas on paper, you can find me binge-watching a Netflix series or deep in a video game. My design philosophy is simple: <strong>make it visually appealing, functional, and bring a smile to people's faces</strong>.
+</p>
+
+<p align="center">
+  <b>In short, I'm the developer you're looking for!!</b>
+</p>
+
+<p align="center">
+  <em>To try and test, hit the button below 👇</em>
+</p>
+
+<!-- You can link this button to your portfolio, contact page, or a project -->
+<p align="center">
+  <a href="YOUR_LINK_HERE">
+    <img src="https://img.shields.io/badge/-Check%20Out%20My%20Work-blue?style=for-the-badge&logo=appveyor" alt="Button to your work"/>
+  </a>
+</p>
+
 
 
 ## 🌐 Socials:
