@@ -18,11 +18,13 @@ A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Boo
   </a>
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthdagar25)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddharthdagar_) 
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/siddharthdagar25/"><img src="https://img.shields.io/badge/-Siddharth%20Dagar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/siddharthdagar_"><img src="https://img.shields.io/badge/-Siddharth%20Dagar-D14836?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
 
-# 💻 Tech Stack:
+### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -46,8 +48,7 @@ A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Boo
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Siddharth-Dagar-25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Siddharth-Dagar-25&layout=compact&langs_count=8&theme=algolia"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddharth-Dagar-25&theme=algolia" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddharth-Dagar-25&theme=algolia"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharth-Dagar-25&theme=algolia"  />
+  <br>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharth-Dagar-25&theme=algolia"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharth-Dagar-25&theme=algolia" />
 </div>
