@@ -1,17 +1,15 @@
-# 💫 About Me:
-<h2 align="center">Hello! I'm Siddharth Dagar 👋</h2>
+![A Web Developer](https://i.ibb.co/68W7wQf/WEB-DEVELOPER-2.gif)
 
-<p align="center">
-  <em>I'm a Full Stack Web Developer with a passion for creating products that are not only visually appealing but also solve real-world problems.</em>
-</p>
+<h2 align="center">Hi👋, I'm Siddharth Dagar</h2>
 
-<p align="center">
-  When I'm not sketching ideas on paper, you can find me binge-watching a Netflix series or deep in a video game. My design philosophy is simple: <strong>make it visually appealing, functional, and bring a smile to people's faces</strong>.
-</p>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Readux, Netlify, Firebase, MySQL and MongoDB. Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
 
-<p align="center">
-  <b>In short, I'm the developer you're looking for!!</b>
-</p>
+- 💡I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱I’m currently learning **NextJs**
+- 👯I’m looking to collaborate on github 
+- ✉️ &nbsp;You can shoot me an email at sid.dagar0101@gmail.com! I'll try to respond as soon as I can.
+- Please have a look at my Portfolio for more details about me. I'm open to feedback and suggestions!
 
 <!-- You can link this button to your portfolio, contact page, or a project -->
 <p align="center">
@@ -19,12 +17,6 @@
     <img src="https://img.shields.io/badge/-Check%20Out%20My%20Portfolio%20-blue?style=for-the-badge&logo=appveyor" alt="Button to your work"/>
   </a>
 </p>
-
-<p align="center">
-  <em>To try and test, check my Socials below 👇</em>
-</p>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthdagar25)
@@ -44,29 +36,32 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp; </br>
+
+### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Siddharth-Dagar-25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Siddharth-Dagar-25&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddharth-Dagar-25&theme=algolia" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddharth-Dagar-25&theme=algolia"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharth-Dagar-25&theme=algolia"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharth-Dagar-25&theme=algolia"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharth-Dagar-25&theme=algolia" />
+</div>
 
 <div align="center">
-
-  <!-- 📊 GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-Dagar-25&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-Dagar-25&theme=flag-india&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Dagar-25&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
-  <!-- 🏆 GitHub Trophies -->
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddharth-Dagar-25&theme=discord&no-frame=false&no-bg=true&margin-w=4"/>
-
   <!-- ✍️ Random Dev Quote -->
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+  
   ---
 [![](https://visitcount.itsvg.in/api?id=Siddharth-Dagar-25&icon=0&color=11)](https://visitcount.itsvg.in)
 
 </div>
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
