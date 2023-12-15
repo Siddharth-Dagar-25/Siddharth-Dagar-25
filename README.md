@@ -58,8 +58,9 @@ A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Boo
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
   
   ---
-[![](https://visitcount.itsvg.in/api?id=Siddharth-Dagar-25&icon=0&color=11)](https://visitcount.itsvg.in)
-
+  
+  <a href="https://github.com/Siddharth-Dagar-25"><img src="https://komarev.com/ghpvc/?username=Siddharth-Dagar-25" alt="Profile Visits"></a>
+  
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
