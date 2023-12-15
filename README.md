@@ -3,7 +3,7 @@
 <h2 align="center">Hi👋, I'm Siddharth Dagar</h2>
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Readux, Netlify, Firebase, MySQL and MongoDB. Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
+A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Bootstrap, Tailwind, Redux, Netlify, Firebase, MySQL and MongoDB. Also my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership.
 
 - 💡I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱I’m currently learning **NextJs**
