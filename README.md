@@ -54,9 +54,6 @@ A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Boo
 </div>
 
 <div align="center">
-  <!-- ✍️ Random Dev Quote -->
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
   
   ---
   
