@@ -44,8 +44,8 @@ A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Boo
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> &nbsp; </br>
 
-//https://ileriayo.github.io/markdown-badges/
-//This is the website used for the badges above
+<!-- https://ileriayo.github.io/markdown-badges/
+This is the website used for the badges above -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
