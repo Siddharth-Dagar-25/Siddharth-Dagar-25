@@ -42,6 +42,7 @@ A Full stack developer skilled in React.js, NodeJs, JavaScript, HTML5, CSS3, Boo
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> &nbsp; </br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> &nbsp; </br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
