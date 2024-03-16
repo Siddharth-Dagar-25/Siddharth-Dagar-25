@@ -1,4 +1,4 @@
-![A Web Developer](https://i.ibb.co/68W7wQf/WEB-DEVELOPER-2.gif)
+<!-- ![A Web Developer](https://i.ibb.co/68W7wQf/WEB-DEVELOPER-2.gif) -->
 
 <h2 align="center">Hi👋, I'm Siddharth Dagar</h2>
 
